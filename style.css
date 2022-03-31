@@ -66,7 +66,7 @@ button:hover {
 
 .calcButtons > button:nth-child(19) {
 
-    background-color: #193366;
+    background-color: lightred;
 }
 
 .userEntry {
