@@ -34,7 +34,7 @@ button:hover {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     margin:0 auto;
-    background-color: #193366;
+    background-color: #303030;
     padding: 10px;
 }
 
@@ -58,7 +58,7 @@ button:hover {
     text-align: right;
     padding: 10px;
     font-size: 25px;
-    /*border: 1px solid #193366;*/
+    border: 10px solid #303030;
     background-color: #d6e0f5;
 }
 
@@ -66,7 +66,7 @@ button:hover {
 
 .calcButtons > button:nth-child(19) {
 
-    background-color: lightgreen;
+    background-color: #193366;
 }
 
 .userEntry {
